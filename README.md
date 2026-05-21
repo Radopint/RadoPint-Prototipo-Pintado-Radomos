@@ -10,7 +10,6 @@ Este repositorio contiene los archivos desarrollados para el trabajo de grado
 - `esp32_sensores/`: código de la ESP32 para lectura del sensor VL53L0X y microswitches de seguridad.
 - `marlin/`: configuración modificada de Marlin para el prototipo.
 - `cad_planos/`: planos, archivos CAD, STL y STEP del sistema mecánico.
-- `electronica/`: diagramas eléctricos, conexiones y asignación de pines.
 - `pruebas/`: protocolo de pruebas, datos experimentales y resultados de medición.
 - `documentacion/`: manual de usuario y manual de desarrollador.
 
