@@ -1,0 +1,1 @@
+# RadoPint-Prototipo-Pintado-Radomos
